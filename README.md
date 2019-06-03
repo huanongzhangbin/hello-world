@@ -17,7 +17,6 @@ cout<<"hello word"<<endl;
   jjjjj<br>
   kkkkkk<br>
 https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch<br>
-  wo ai ni  
-    anlian
-      jjj
-        yy
+  wo ai ni
+  jjj
+  ddd
