@@ -19,4 +19,4 @@ cout<<"hello word"<<endl;
 https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch<br>
   wo ai ni
 ``zhen ``
-[bai du fan yi](https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch "悬停显示"<br>
+[bai du fan yi](https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch "悬停显示")
