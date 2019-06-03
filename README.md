@@ -20,3 +20,7 @@ https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult
   wo ai ni
 ``zhen ``
 [bai du fan yi](https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch "悬停显示")
+*zhang
+*bin
+>>wode
+>>>zhend 
