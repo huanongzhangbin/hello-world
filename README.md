@@ -18,5 +18,5 @@ cout<<"hello word"<<endl;
   kkkkkk<br>
 https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch<br>
   wo ai ni
-  jjj
-  ddd
+``zhen ``
+[bai du fan yi](https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch)<br>
