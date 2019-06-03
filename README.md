@@ -19,4 +19,5 @@ cout<<"hello word"<<endl;
 https://fanyi.baidu.com/translate?aldtype=16047&query=&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/lanch<br>
   wo ai ni  
     anlian
-      zend
+      jjj
+        yy
